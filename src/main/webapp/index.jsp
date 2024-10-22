@@ -13,7 +13,7 @@
 <div class="container">
   <div class="jumbotron">
     <h1>Tomcat, maven and jenkins project and this is new jenkins server</h1>      
-    <p>This is poll scm build file</p>
+    <p>This is webhook concept</p>
   </div>    
 </div>
 
