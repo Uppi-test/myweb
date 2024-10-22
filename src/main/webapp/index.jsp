@@ -13,7 +13,7 @@
 <div class="container">
   <div class="jumbotron">
     <h1>Tomcat, maven and jenkins project and this is new jenkins server</h1>      
-    <p>This is the automation period chnage</p>
+    <p>This is poll scm build file</p>
   </div>    
 </div>
 
