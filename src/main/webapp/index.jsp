@@ -12,7 +12,7 @@
 
 <div class="container">
   <div class="jumbotron">
-    <h1>Tomcat, maven and jenkins project and this is new jenkins server</h1>      
+    <h1>This is pipeline project</h1>      
     <p>This is webhook concept</p>
   </div>    
 </div>
